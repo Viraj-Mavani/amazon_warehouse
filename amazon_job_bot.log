@@ -1,0 +1,1070 @@
+2025-09-04 20:56:14,501 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 20:56:14,685 - INFO - Chromedriver is already installed.
+2025-09-04 21:13:59,383 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 21:13:59,631 - INFO - Chromedriver is already installed.
+2025-09-04 21:22:39,632 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 21:22:39,805 - INFO - Chromedriver is already installed.
+2025-09-04 21:22:57,511 - INFO - [+] Jobs found, proceeding to parse job cards...
+2025-09-04 21:49:30,919 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 21:49:31,155 - INFO - Chromedriver is already installed.
+2025-09-04 21:49:50,024 - INFO - [+] Jobs found, proceeding to parse job cards...
+2025-09-04 21:49:53,645 - INFO - [*] Found 27 job cards.
+2025-09-04 21:49:53,742 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:53,816 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:53,877 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:53,927 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,020 - INFO - [-] Skipping Sortation Center Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,076 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,146 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,185 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,226 - INFO - [-] Skipping Fulfillment Center Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,289 - INFO - [-] Skipping Fulfillment Center Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,349 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,409 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,477 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,534 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,629 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,689 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,742 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,829 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,878 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,924 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:54,963 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:55,022 - INFO - [-] Skipping Fulfillment Center Warehouse Associate: invalid type -> 
+2025-09-04 21:49:55,075 - INFO - [-] Skipping Fulfillment Center Warehouse Associate: invalid type -> 
+2025-09-04 21:49:55,123 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:49:55,163 - INFO - [-] Skipping Fulfillment Center Warehouse Associate: invalid type -> 
+2025-09-04 21:49:55,217 - INFO - [-] Skipping Locker+ Retail Associate: invalid type -> 
+2025-09-04 21:49:55,270 - INFO - [-] Skipping Locker+ Retail Associate: invalid type -> 
+2025-09-04 21:49:55,271 - INFO - [-] Target job not in current listing. Refreshing...
+2025-09-04 21:49:55,272 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 21:50:00,299 - WARNING - Block detected! Waiting for 1 hour before continuing...
+2025-09-04 21:51:40,350 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 21:51:40,576 - INFO - Chromedriver is already installed.
+2025-09-04 21:51:51,886 - INFO - [+] Jobs found, proceeding to parse job cards...
+2025-09-04 21:52:15,256 - INFO - [*] Found 27 job cards.
+2025-09-04 21:57:23,548 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:59:11,601 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 21:59:45,218 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> 
+2025-09-04 22:02:27,692 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 22:02:27,940 - INFO - Chromedriver is already installed.
+2025-09-04 22:02:35,918 - INFO - [+] Jobs found, proceeding to parse job cards...
+2025-09-04 22:02:41,111 - INFO - [*] Found 27 job cards.
+2025-09-04 22:04:00,994 - ERROR - [!] Error in shift_text: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(text(),'shift available')]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xac2121]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xac2044]
+	(No symbol) [0x0xaf1694]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 22:04:00,994 - INFO - [-] Skipping Delivery Station Warehouse Associate: no available shifts.
+2025-09-04 22:04:02,827 - INFO - [+] Found valid job: Delivery Station Warehouse Associate | Type: Flex Time | 1 shift available
+2025-09-04 22:07:11,049 - WARNING - [!] Could not click element //button[contains(text(),'Select work shift')]: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xb14ef2]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 22:16:19,326 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 22:16:19,526 - INFO - Chromedriver is already installed.
+2025-09-04 22:16:37,811 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 22:16:37,988 - INFO - Chromedriver is already installed.
+2025-09-04 22:16:46,206 - INFO - [+] Jobs found, proceeding to parse job cards...
+2025-09-04 22:16:46,233 - INFO - [*] Found 27 job cards.
+2025-09-04 22:16:56,042 - ERROR - [!] Error in shift_text: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(text(),'shift available')]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xac2121]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xac2044]
+	(No symbol) [0x0xaf1694]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 22:16:56,043 - INFO - [-] Skipping Delivery Station Warehouse Associate: no available shifts.
+2025-09-04 22:16:56,279 - INFO - [+] Found valid job: Delivery Station Warehouse Associate | Type: Flex Time | 1 shift available
+2025-09-04 22:23:02,588 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 22:23:02,792 - INFO - Chromedriver is already installed.
+2025-09-04 22:23:10,656 - INFO - [+] Jobs found, proceeding to parse job cards...
+2025-09-04 22:23:10,669 - INFO - [*] Found 27 job cards.
+2025-09-04 22:23:10,784 - ERROR - [!] Error in shift_text: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(text(),'shift available')]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xac2121]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xac2044]
+	(No symbol) [0x0xaf1694]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 22:23:10,785 - INFO - [-] Skipping Delivery Station Warehouse Associate: no available shifts.
+2025-09-04 22:23:10,905 - INFO - [+] Found valid job: Delivery Station Warehouse Associate | Type: Flex Time | 1 shift available
+2025-09-04 22:30:55,993 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 22:30:56,202 - INFO - Chromedriver is already installed.
+2025-09-04 22:31:22,607 - INFO - [+] Already logged in, continuing...
+2025-09-04 22:31:24,217 - INFO - [+] Jobs found, proceeding to parse job cards...
+2025-09-04 22:31:24,229 - INFO - [*] Found 27 job cards.
+2025-09-04 22:31:24,341 - ERROR - [!] Error in shift_text: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(text(),'shift available')]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xac2121]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xac2044]
+	(No symbol) [0x0xaf1694]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 22:31:24,342 - INFO - [-] Skipping Delivery Station Warehouse Associate: no available shifts.
+2025-09-04 22:31:24,481 - INFO - [+] Found valid job: Delivery Station Warehouse Associate | Type: Full Time | 1 shift available
+2025-09-04 22:32:04,906 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 22:32:05,101 - INFO - Chromedriver is already installed.
+2025-09-04 22:33:49,143 - INFO - [+] Already logged in, continuing...
+2025-09-04 22:33:49,194 - INFO - [+] Jobs found, proceeding to parse job cards...
+2025-09-04 22:33:49,219 - INFO - [*] Found 27 job cards.
+2025-09-04 22:33:49,358 - ERROR - [!] Error in shift_text: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(text(),'shift available')]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xac2121]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xac2044]
+	(No symbol) [0x0xaf1694]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 22:33:49,359 - INFO - [-] Skipping Delivery Station Warehouse Associate: no available shifts.
+2025-09-04 22:33:49,469 - INFO - [+] Found valid job: Delivery Station Warehouse Associate | Type: Full Time | 1 shift available
+2025-09-04 22:37:53,706 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 22:37:53,896 - INFO - Chromedriver is already installed.
+2025-09-04 22:39:07,367 - INFO - [+] Already logged in, continuing...
+2025-09-04 22:39:07,436 - INFO - [+] Jobs found, proceeding to parse job cards...
+2025-09-04 22:39:07,463 - INFO - [*] Found 27 job cards.
+2025-09-04 22:39:07,651 - ERROR - [!] Error in shift_text: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(text(),'shift available')]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xac2121]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xac2044]
+	(No symbol) [0x0xaf1694]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 22:39:07,651 - INFO - [-] Skipping Delivery Station Warehouse Associate: no available shifts.
+2025-09-04 22:39:07,824 - INFO - [+] Found valid job: Delivery Station Warehouse Associate | Type: Full Time | 1 shift available
+2025-09-04 22:39:20,751 - WARNING - [!] Could not click element div.jobDetailScheduleDropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xb14ef2]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 22:39:30,812 - WARNING - [!] Could not click element div[data-test-id='schedulePanel'] div[data-test-component='StencilReactCard'][role='button']: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xb14ef2]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 22:39:41,292 - WARNING - [!] Could not click element button[data-test-id='jobDetailApplyButtonDesktop']: Message: 
+
+2025-09-04 22:47:01,199 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 22:47:01,389 - INFO - Chromedriver is already installed.
+2025-09-04 22:47:17,849 - INFO - [!] Login required. Please sign in manually.
+2025-09-04 22:48:25,423 - INFO - [+] Jobs found, proceeding to parse job cards...
+2025-09-04 22:48:25,444 - INFO - [*] Found 27 job cards.
+2025-09-04 22:48:25,582 - ERROR - [!] Error in shift_text: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(text(),'shift available')]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xac2121]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xac2044]
+	(No symbol) [0x0xaf1694]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 22:48:25,583 - INFO - [-] Skipping Delivery Station Warehouse Associate: no available shifts.
+2025-09-04 22:48:25,740 - INFO - [-] Skipping Sortation Center Warehouse Associate: invalid type -> Type: Part Time
+2025-09-04 22:48:25,898 - INFO - [-] Skipping Delivery Station Warehouse Associate: invalid type -> Type: Part Time
+2025-09-04 22:48:26,020 - INFO - [+] Found valid job: Delivery Station Warehouse Associate | Type: Full Time | 1 shift available
+2025-09-04 22:48:53,105 - INFO - [+] Application submitted successfully!
+2025-09-04 22:54:39,397 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 22:54:39,605 - INFO - Chromedriver is already installed.
+2025-09-04 22:54:56,897 - WARNING - [!] Could not click element //div[@data-test-id='consentModal']/div/button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xb14ef2]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 22:54:57,319 - INFO - [!] Login required. Please sign in manually.
+2025-09-04 22:55:53,922 - INFO - [-] No jobs available right now...
+2025-09-04 22:55:59,356 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 22:56:05,372 - WARNING - Block detected! Waiting for 1 hour before continuing...
+2025-09-04 22:57:26,935 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 22:57:27,157 - INFO - Chromedriver is already installed.
+2025-09-04 22:57:44,278 - WARNING - [!] Could not click element //div[@data-test-id='consentModal']/div/button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xb14ef2]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 22:57:44,770 - INFO - [!] Login required. Please sign in manually.
+2025-09-04 22:59:27,267 - INFO - [-] No jobs available right now...
+2025-09-04 22:59:27,268 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 22:59:49,677 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 22:59:56,591 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:00:03,327 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:00:11,322 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:00:17,067 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:00:25,977 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:00:33,725 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:00:42,508 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:00:50,320 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:00:56,042 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:01:03,762 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:01:12,486 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:01:20,199 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:01:29,124 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:01:37,023 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:01:43,896 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:01:52,685 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:02:01,553 - INFO - Waiting 0 minutes before next check...)
+2025-09-04 23:02:37,668 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 23:02:37,841 - INFO - Chromedriver is already installed.
+2025-09-04 23:02:55,030 - WARNING - [!] Could not click element //div[@data-test-id='consentModal']/div/button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xb14ef2]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 23:02:55,358 - INFO - [!] Login required. Please sign in manually.
+2025-09-04 23:03:42,653 - INFO - [-] No jobs available right now...
+2025-09-04 23:03:42,654 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:03:49,401 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:03:58,847 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:04:06,007 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:04:15,977 - INFO - [-] No jobs available right now...
+2025-09-04 23:04:15,985 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:04:24,806 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:04:31,879 - INFO - [-] No jobs available right now...
+2025-09-04 23:04:31,879 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:04:41,982 - INFO - [-] No jobs available right now...
+2025-09-04 23:04:41,982 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:04:49,812 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:04:58,597 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:05:04,723 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:05:11,682 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:05:18,705 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:05:27,768 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:05:35,747 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:05:43,703 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:05:49,706 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:05:58,712 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:06:05,810 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:06:14,595 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:06:22,649 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:06:28,690 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:06:34,688 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:06:42,728 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:06:50,787 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:06:59,784 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:07:07,725 - INFO - [-] No jobs available right now...
+2025-09-04 23:07:07,734 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:07:16,700 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:07:23,577 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:07:31,591 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:07:38,727 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:07:45,713 - INFO - [-] No jobs available right now...
+2025-09-04 23:07:45,713 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:07:53,689 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:08:01,632 - INFO - [-] No jobs available right now...
+2025-09-04 23:08:01,632 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:08:07,482 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:08:15,484 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:08:24,497 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:08:31,559 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:08:39,588 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:08:47,533 - INFO - [-] No jobs available right now...
+2025-09-04 23:08:47,533 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:08:53,592 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:08:59,595 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:09:08,627 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:09:17,704 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:09:23,681 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:09:30,658 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:09:36,585 - INFO - [-] No jobs available right now...
+2025-09-04 23:09:36,585 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:09:42,735 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:09:51,848 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:09:58,839 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:10:06,839 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:10:12,888 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:10:20,690 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:10:30,753 - INFO - [-] No jobs available right now...
+2025-09-04 23:10:30,753 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:10:39,726 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:10:49,694 - INFO - [-] No jobs available right now...
+2025-09-04 23:10:49,694 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:10:58,349 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:11:07,270 - INFO - [-] No jobs available right now...
+2025-09-04 23:11:07,270 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:11:14,897 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:11:22,574 - INFO - [-] No jobs available right now...
+2025-09-04 23:11:22,574 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:11:31,324 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:11:41,289 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:11:51,064 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:12:00,657 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:12:07,409 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:12:16,356 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:12:25,244 - INFO - [-] No jobs available right now...
+2025-09-04 23:12:25,253 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:12:35,395 - INFO - [-] No jobs available right now...
+2025-09-04 23:12:35,395 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:12:42,147 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:12:51,998 - INFO - [-] No jobs available right now...
+2025-09-04 23:12:52,000 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:13:02,085 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:13:10,276 - INFO - [-] No jobs available right now...
+2025-09-04 23:13:10,276 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:13:20,000 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:13:29,112 - INFO - [-] No jobs available right now...
+2025-09-04 23:13:29,112 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:13:36,048 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:13:45,107 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:13:54,067 - INFO - [-] No jobs available right now...
+2025-09-04 23:13:54,076 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:14:02,862 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:14:12,800 - INFO - [-] No jobs available right now...
+2025-09-04 23:14:12,800 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:14:22,658 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:14:30,430 - INFO - [-] No jobs available right now...
+2025-09-04 23:14:30,438 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:14:39,561 - INFO - [-] No jobs available right now...
+2025-09-04 23:14:39,561 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:14:47,292 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:14:54,097 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:15:01,792 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:15:08,611 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:15:16,752 - INFO - [-] No jobs available right now...
+2025-09-04 23:15:16,752 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:15:25,716 - INFO - [-] No jobs available right now...
+2025-09-04 23:15:25,716 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:15:33,531 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:15:42,481 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:15:51,436 - INFO - [-] No jobs available right now...
+2025-09-04 23:15:51,436 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:15:58,501 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:16:06,472 - INFO - [-] No jobs available right now...
+2025-09-04 23:16:06,472 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:16:15,774 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:16:21,897 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:16:27,839 - INFO - [-] No jobs available right now...
+2025-09-04 23:16:27,839 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:16:33,820 - INFO - [-] No jobs available right now...
+2025-09-04 23:16:33,820 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:16:39,838 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:16:46,801 - INFO - [-] No jobs available right now...
+2025-09-04 23:16:46,801 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:16:52,943 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:17:01,954 - INFO - [-] No jobs available right now...
+2025-09-04 23:17:01,954 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:17:07,975 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:17:13,972 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:17:20,106 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:17:29,182 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:17:35,191 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:17:41,136 - INFO - [-] No jobs available right now...
+2025-09-04 23:17:41,136 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:17:50,078 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:17:59,188 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:18:07,169 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:18:15,203 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:18:23,774 - INFO - [-] No jobs available right now...
+2025-09-04 23:18:23,774 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:18:33,614 - INFO - [-] No jobs available right now...
+2025-09-04 23:18:33,614 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:18:43,118 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:18:52,968 - INFO - [-] No jobs available right now...
+2025-09-04 23:18:52,968 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:19:01,223 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:19:08,339 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:19:15,793 - INFO - [-] No jobs available right now...
+2025-09-04 23:19:15,793 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:19:21,846 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:19:27,826 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:19:36,835 - INFO - [-] No jobs available right now...
+2025-09-04 23:19:36,835 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:19:45,010 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:21:23,018 - INFO - [+] Starting Amazon Job Bot...
+2025-09-04 23:21:23,240 - INFO - Chromedriver is already installed.
+2025-09-04 23:21:40,674 - WARNING - [!] Could not click element //div[@data-test-id='consentModal']/div/button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc4a8a3+63283]
+	GetHandleVerifier [0x0xc4a8e4+63348]
+	(No symbol) [0x0xa83e43]
+	(No symbol) [0x0xacc8de]
+	(No symbol) [0x0xaccc7b]
+	(No symbol) [0x0xb14ef2]
+	(No symbol) [0x0xaf1464]
+	(No symbol) [0x0xb1271a]
+	(No symbol) [0x0xaf1216]
+	(No symbol) [0x0xac0855]
+	(No symbol) [0x0xac16f4]
+	GetHandleVerifier [0x0xebbb43+2623955]
+	GetHandleVerifier [0x0xeb6daa+2604090]
+	GetHandleVerifier [0x0xc7069a+218410]
+	GetHandleVerifier [0x0xc60ed8+154984]
+	GetHandleVerifier [0x0xc6742d+180925]
+	GetHandleVerifier [0x0xc522b8+94536]
+	GetHandleVerifier [0x0xc52442+94930]
+	GetHandleVerifier [0x0xc3d5ea+9338]
+	BaseThreadInitThunk [0x0x756b5d49+25]
+	RtlInitializeExceptionChain [0x0x7769d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d281+561]
+
+2025-09-04 23:21:41,269 - INFO - [!] Login required. Please sign in manually.
+2025-09-04 23:23:37,052 - INFO - [-] No jobs available right now...
+2025-09-04 23:23:37,056 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:23:45,179 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:23:52,370 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:23:58,465 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:24:06,526 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:24:12,466 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:24:18,470 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:24:24,477 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:24:30,465 - INFO - [-] No jobs available right now...
+2025-09-04 23:24:30,465 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:24:36,443 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:24:42,439 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:24:50,483 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:24:59,583 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:25:06,711 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:25:12,721 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:25:19,734 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:25:28,827 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:25:35,956 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:25:42,012 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:25:50,019 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:25:59,120 - INFO - [-] No jobs available right now...
+2025-09-04 23:25:59,120 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:26:07,083 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:26:16,164 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:26:25,393 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:26:31,389 - INFO - [-] No jobs available right now...
+2025-09-04 23:26:31,389 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:26:39,644 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:26:45,634 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:26:51,834 - INFO - [-] No jobs available right now...
+2025-09-04 23:26:51,834 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:27:00,898 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:27:08,918 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:27:16,930 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:27:25,059 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:27:33,059 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:27:41,050 - INFO - [-] No jobs available right now...
+2025-09-04 23:27:41,050 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:27:50,107 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:28:00,052 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:28:07,055 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:28:16,971 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:28:25,025 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:28:33,146 - INFO - [-] No jobs available right now...
+2025-09-04 23:28:33,146 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:28:40,128 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:28:47,588 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:28:55,695 - INFO - [-] No jobs available right now...
+2025-09-04 23:28:55,703 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:29:05,038 - INFO - [-] No jobs available right now...
+2025-09-04 23:29:05,038 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:29:12,041 - INFO - [-] No jobs available right now...
+2025-09-04 23:29:12,041 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:29:22,151 - INFO - [-] No jobs available right now...
+2025-09-04 23:29:22,151 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:29:30,153 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:29:40,528 - INFO - [-] No jobs available right now...
+2025-09-04 23:29:40,528 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:29:48,487 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:29:55,356 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:30:03,488 - INFO - [-] No jobs available right now...
+2025-09-04 23:30:03,496 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:30:13,584 - INFO - [-] No jobs available right now...
+2025-09-04 23:30:13,584 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:30:20,723 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:30:27,728 - INFO - [-] No jobs available right now...
+2025-09-04 23:30:27,728 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:30:36,930 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:30:44,061 - INFO - [-] No jobs available right now...
+2025-09-04 23:30:44,061 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:30:52,127 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:31:00,902 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:31:09,733 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:31:18,858 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:31:26,903 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:31:34,963 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:31:43,978 - INFO - [-] No jobs available right now...
+2025-09-04 23:31:43,978 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:31:51,003 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:31:59,060 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:32:08,119 - INFO - [-] No jobs available right now...
+2025-09-04 23:32:08,119 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:32:15,120 - INFO - [-] No jobs available right now...
+2025-09-04 23:32:15,120 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:32:23,120 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:32:29,313 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:32:38,393 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:32:47,456 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:32:57,094 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:33:07,752 - INFO - [-] No jobs available right now...
+2025-09-04 23:33:07,752 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:33:13,778 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:33:22,755 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:33:29,950 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:33:38,997 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:33:47,108 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:33:54,061 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:34:03,084 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:34:09,076 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:34:16,224 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:34:25,349 - INFO - [-] No jobs available right now...
+2025-09-04 23:34:25,349 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:34:31,463 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:34:37,501 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:34:43,553 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:34:51,574 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:34:59,636 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:35:06,662 - INFO - [-] No jobs available right now...
+2025-09-04 23:35:06,662 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:35:13,739 - INFO - [-] No jobs available right now...
+2025-09-04 23:35:13,739 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:35:22,829 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:35:32,059 - INFO - [-] No jobs available right now...
+2025-09-04 23:35:32,063 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:35:42,243 - INFO - [-] No jobs available right now...
+2025-09-04 23:35:42,243 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:35:50,473 - INFO - [-] No jobs available right now...
+2025-09-04 23:35:50,481 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:36:00,582 - INFO - [-] No jobs available right now...
+2025-09-04 23:36:00,582 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:36:09,788 - INFO - [-] No jobs available right now...
+2025-09-04 23:36:09,788 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:36:16,960 - INFO - [-] No jobs available right now...
+2025-09-04 23:36:16,960 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:36:24,014 - INFO - [-] No jobs available right now...
+2025-09-04 23:36:24,014 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:36:34,177 - INFO - [-] No jobs available right now...
+2025-09-04 23:36:34,178 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:36:44,178 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:36:53,244 - INFO - [-] No jobs available right now...
+2025-09-04 23:36:53,252 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:37:01,574 - INFO - [-] No jobs available right now...
+2025-09-04 23:37:01,574 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:37:11,730 - INFO - [-] No jobs available right now...
+2025-09-04 23:37:11,730 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:37:20,875 - INFO - [-] No jobs available right now...
+2025-09-04 23:37:20,875 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:37:27,935 - INFO - [-] No jobs available right now...
+2025-09-04 23:37:27,935 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:37:37,953 - INFO - [-] No jobs available right now...
+2025-09-04 23:37:37,953 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:37:46,188 - INFO - [-] No jobs available right now...
+2025-09-04 23:37:46,188 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:37:53,213 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:38:02,362 - INFO - [-] No jobs available right now...
+2025-09-04 23:38:02,362 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:38:10,662 - INFO - [-] No jobs available right now...
+2025-09-04 23:38:10,662 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:38:19,894 - INFO - [-] No jobs available right now...
+2025-09-04 23:38:19,896 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:38:30,209 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:38:37,484 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:38:47,468 - INFO - [-] No jobs available right now...
+2025-09-04 23:38:47,468 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:38:57,619 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:39:06,862 - INFO - [-] No jobs available right now...
+2025-09-04 23:39:06,862 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:39:14,095 - INFO - [-] No jobs available right now...
+2025-09-04 23:39:14,095 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:39:24,061 - INFO - [-] No jobs available right now...
+2025-09-04 23:39:24,070 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:39:31,303 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:39:41,372 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:39:48,413 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:39:56,400 - INFO - [-] No jobs available right now...
+2025-09-04 23:39:56,404 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:40:03,416 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:40:13,559 - INFO - [-] No jobs available right now...
+2025-09-04 23:40:13,559 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:40:22,784 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:40:29,721 - INFO - [-] No jobs available right now...
+2025-09-04 23:40:29,721 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:40:36,810 - INFO - [-] No jobs available right now...
+2025-09-04 23:40:36,810 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:40:43,715 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:40:53,688 - INFO - [-] No jobs available right now...
+2025-09-04 23:40:53,688 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:41:02,784 - INFO - [-] No jobs available right now...
+2025-09-04 23:41:02,784 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:41:10,131 - INFO - [-] No jobs available right now...
+2025-09-04 23:41:10,131 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:41:19,312 - INFO - [-] No jobs available right now...
+2025-09-04 23:41:19,314 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:41:26,611 - INFO - [-] No jobs available right now...
+2025-09-04 23:41:26,611 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:41:33,546 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:41:41,642 - INFO - [-] No jobs available right now...
+2025-09-04 23:41:41,642 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:41:48,685 - INFO - [-] No jobs available right now...
+2025-09-04 23:41:48,693 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:41:55,705 - INFO - [-] No jobs available right now...
+2025-09-04 23:41:55,705 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:42:04,802 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:42:11,872 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:42:17,913 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:42:24,905 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:42:33,850 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:42:42,942 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:42:49,011 - INFO - [-] No jobs available right now...
+2025-09-04 23:42:49,011 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:42:55,068 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:43:05,704 - INFO - [-] No jobs available right now...
+2025-09-04 23:43:05,704 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:43:16,262 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:43:22,279 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:43:29,323 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:43:38,314 - INFO - [-] No jobs available right now...
+2025-09-04 23:43:38,314 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:43:46,455 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:43:54,485 - INFO - [-] No jobs available right now...
+2025-09-04 23:43:54,487 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:44:03,566 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:44:09,682 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:44:16,688 - INFO - [-] No jobs available right now...
+2025-09-04 23:44:16,688 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:44:22,672 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:44:28,626 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:44:36,480 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:44:45,483 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:44:52,613 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:44:59,629 - INFO - [-] No jobs available right now...
+2025-09-04 23:44:59,629 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:45:06,675 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:45:13,813 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:45:19,782 - INFO - [-] No jobs available right now...
+2025-09-04 23:45:19,782 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:45:25,746 - INFO - [-] No jobs available right now...
+2025-09-04 23:45:25,746 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:45:34,494 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:45:41,497 - INFO - [-] No jobs available right now...
+2025-09-04 23:45:41,497 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:45:51,550 - INFO - [-] No jobs available right now...
+2025-09-04 23:45:51,555 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:46:01,602 - INFO - [-] No jobs available right now...
+2025-09-04 23:46:01,604 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:46:10,677 - INFO - [-] No jobs available right now...
+2025-09-04 23:46:10,677 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:46:20,582 - INFO - [-] No jobs available right now...
+2025-09-04 23:46:20,591 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:46:27,661 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:46:35,683 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:46:41,633 - INFO - [-] No jobs available right now...
+2025-09-04 23:46:41,633 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:46:50,704 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:46:56,788 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:47:06,115 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:47:15,166 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:47:23,276 - INFO - [-] No jobs available right now...
+2025-09-04 23:47:23,276 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:47:31,312 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:47:39,422 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:47:45,525 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:47:51,636 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:48:00,728 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:48:07,800 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:48:16,839 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:48:23,792 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:48:31,781 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:48:38,809 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:48:44,855 - INFO - [-] No jobs available right now...
+2025-09-04 23:48:44,855 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:48:53,875 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:49:00,945 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:49:06,975 - INFO - [-] No jobs available right now...
+2025-09-04 23:49:06,975 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:49:12,977 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:49:20,949 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:49:30,139 - INFO - [-] No jobs available right now...
+2025-09-04 23:49:30,139 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:49:38,103 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:49:47,213 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:49:55,270 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:50:01,297 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:50:08,362 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:50:17,362 - INFO - [-] No jobs available right now...
+2025-09-04 23:50:17,362 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:50:24,407 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:50:30,395 - INFO - [-] No jobs available right now...
+2025-09-04 23:50:30,395 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:50:37,497 - INFO - [-] No jobs available right now...
+2025-09-04 23:50:37,497 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:50:45,740 - INFO - [-] No jobs available right now...
+2025-09-04 23:50:45,744 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:50:54,901 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:51:04,307 - INFO - [-] No jobs available right now...
+2025-09-04 23:51:04,307 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:51:14,324 - INFO - [-] No jobs available right now...
+2025-09-04 23:51:14,324 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:51:24,080 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:51:34,031 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:51:41,939 - INFO - [-] No jobs available right now...
+2025-09-04 23:51:41,939 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:51:51,096 - INFO - [-] No jobs available right now...
+2025-09-04 23:51:51,104 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:52:00,296 - INFO - [-] No jobs available right now...
+2025-09-04 23:52:00,296 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:52:09,512 - INFO - [-] No jobs available right now...
+2025-09-04 23:52:09,512 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:52:18,815 - INFO - [-] No jobs available right now...
+2025-09-04 23:52:18,815 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:52:27,078 - INFO - [-] No jobs available right now...
+2025-09-04 23:52:27,078 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:52:35,668 - INFO - [-] No jobs available right now...
+2025-09-04 23:52:35,668 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:52:42,845 - INFO - [-] No jobs available right now...
+2025-09-04 23:52:42,845 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:52:49,977 - INFO - [-] No jobs available right now...
+2025-09-04 23:52:49,977 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:52:58,110 - INFO - [-] No jobs available right now...
+2025-09-04 23:52:58,110 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:53:05,399 - INFO - [-] No jobs available right now...
+2025-09-04 23:53:05,403 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:53:16,887 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:53:29,262 - INFO - [-] No jobs available right now...
+2025-09-04 23:53:29,262 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:53:38,441 - INFO - [-] No jobs available right now...
+2025-09-04 23:53:38,441 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:53:47,571 - INFO - [-] No jobs available right now...
+2025-09-04 23:53:47,577 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:53:56,709 - INFO - [-] No jobs available right now...
+2025-09-04 23:53:56,709 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:54:06,065 - INFO - [-] No jobs available right now...
+2025-09-04 23:54:06,065 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:54:16,263 - INFO - [-] No jobs available right now...
+2025-09-04 23:54:16,263 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:54:23,328 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:54:33,587 - INFO - [-] No jobs available right now...
+2025-09-04 23:54:33,590 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:54:40,608 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:54:47,705 - INFO - [-] No jobs available right now...
+2025-09-04 23:54:47,705 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:54:57,011 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:55:06,421 - INFO - [-] No jobs available right now...
+2025-09-04 23:55:06,421 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:55:14,892 - INFO - [-] No jobs available right now...
+2025-09-04 23:55:14,892 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:55:22,079 - INFO - [-] No jobs available right now...
+2025-09-04 23:55:22,088 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:55:29,040 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:55:37,239 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:55:45,043 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:55:52,083 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:56:01,537 - INFO - [-] No jobs available right now...
+2025-09-04 23:56:01,537 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:56:10,615 - INFO - [-] No jobs available right now...
+2025-09-04 23:56:10,620 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:56:19,943 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:56:27,305 - INFO - [-] No jobs available right now...
+2025-09-04 23:56:27,305 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:56:37,428 - INFO - [-] No jobs available right now...
+2025-09-04 23:56:37,428 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:56:47,411 - INFO - [-] No jobs available right now...
+2025-09-04 23:56:47,419 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:56:54,227 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:57:01,955 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:57:11,735 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:57:20,721 - INFO - [-] No jobs available right now...
+2025-09-04 23:57:20,721 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:57:30,645 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:57:39,865 - INFO - [-] No jobs available right now...
+2025-09-04 23:57:39,867 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:57:48,001 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:57:55,938 - INFO - [-] No jobs available right now...
+2025-09-04 23:57:55,940 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:58:06,216 - INFO - [-] No jobs available right now...
+2025-09-04 23:58:06,216 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:58:15,020 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:58:25,050 - INFO - [-] No jobs available right now...
+2025-09-04 23:58:25,050 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:58:32,057 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:58:42,086 - INFO - [-] No jobs available right now...
+2025-09-04 23:58:42,086 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:58:49,992 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:58:56,854 - INFO - Waiting 5 sec before next check...)
+2025-09-04 23:59:03,777 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:59:12,669 - INFO - [-] No jobs available right now...
+2025-09-04 23:59:12,669 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:59:20,494 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:59:29,545 - INFO - [-] No jobs available right now...
+2025-09-04 23:59:29,545 - INFO - Waiting 8 sec before next check...)
+2025-09-04 23:59:39,665 - INFO - [-] No jobs available right now...
+2025-09-04 23:59:39,665 - INFO - Waiting 7 sec before next check...)
+2025-09-04 23:59:48,811 - INFO - [-] No jobs available right now...
+2025-09-04 23:59:48,811 - INFO - Waiting 6 sec before next check...)
+2025-09-04 23:59:56,669 - INFO - [-] No jobs available right now...
+2025-09-04 23:59:56,669 - INFO - Waiting 7 sec before next check...)
+2025-09-05 00:00:05,957 - INFO - [-] No jobs available right now...
+2025-09-05 00:00:05,959 - INFO - Waiting 7 sec before next check...)
+2025-09-05 00:00:14,835 - INFO - [-] No jobs available right now...
+2025-09-05 00:00:14,835 - INFO - Waiting 6 sec before next check...)
+2025-09-05 00:00:22,807 - INFO - Waiting 5 sec before next check...)
+2025-09-05 00:00:29,794 - INFO - Waiting 6 sec before next check...)
+2025-09-05 00:00:37,407 - INFO - Waiting 5 sec before next check...)
+2025-09-05 00:00:44,567 - INFO - [-] No jobs available right now...
+2025-09-05 00:00:44,567 - INFO - Waiting 8 sec before next check...)
+2025-09-05 00:00:54,430 - INFO - [-] No jobs available right now...
+2025-09-05 00:00:54,430 - INFO - Waiting 6 sec before next check...)
+2025-09-05 00:01:02,415 - INFO - Waiting 6 sec before next check...)
+2025-09-05 00:01:10,403 - INFO - [-] No jobs available right now...
+2025-09-05 00:01:10,403 - INFO - Waiting 5 sec before next check...)
+2025-09-05 00:01:17,231 - INFO - Waiting 7 sec before next check...)
+2025-09-05 00:01:26,098 - INFO - [-] No jobs available right now...
+2025-09-05 00:01:26,107 - INFO - Waiting 8 sec before next check...)
